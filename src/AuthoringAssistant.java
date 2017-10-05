@@ -43,6 +43,9 @@ public class AuthoringAssistant {
             // Call printMenu
             choice = printMenu(scnr);
             // Execute method based on choice returned
+            switch (choice){
+
+            }
 
         } while (choice!='q');
 
